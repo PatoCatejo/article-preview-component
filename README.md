@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution Preview](./design/desktop-preview.jpg)
+![Solution Preview](./screenshot.png)
 
 ### Links
 
